@@ -1,0 +1,159 @@
+/* line 1, ../sass/bonj.scss */
+body {
+  background-color: #F4F3EE;
+  margin: 0;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #555;
+}
+
+/* line 10, ../sass/bonj.scss */
+.inform-and-ask {
+  width: 1855px;
+  height: 880px;
+  display: none;
+  position: fixed;
+}
+/* line 16, ../sass/bonj.scss */
+.inform-and-ask .inform-and-consent {
+  width: 300px;
+  background-color: white;
+  padding: 10px 10px;
+  text-align: center;
+  position: fixed;
+  top: 30px;
+  left: 50%;
+  margin-top: 0px;
+  margin-left: -150px;
+  z-index: 100000;
+  opacity: 1;
+}
+
+/* line 32, ../sass/bonj.scss */
+.cookie-banner {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #555;
+}
+/* line 38, ../sass/bonj.scss */
+.cookie-banner .cookie-banner-message {
+  background-color: #fff;
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+/* line 48, ../sass/bonj.scss */
+.header-menu {
+  background: url("../img/shadow-header-top.jpg") no-repeat bottom;
+}
+/* line 51, ../sass/bonj.scss */
+.header-menu .container {
+  width: 1070px;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* line 56, ../sass/bonj.scss */
+.header-menu .container .span12 {
+  width: 1170px;
+  float: left;
+  min-height: 1px;
+  margin-left: 30px;
+  display: inline-block;
+}
+/* line 63, ../sass/bonj.scss */
+.header-menu .container .span12 .row-shadow-header-top {
+  margin-left: -30px;
+}
+/* line 66, ../sass/bonj.scss */
+.header-menu .container .span12 .row-shadow-header-top .span5-logo-header {
+  margin-left: 0;
+  margin-right: 30px;
+  margin-bottom: 0px;
+  width: 470px;
+}
+/* line 72, ../sass/bonj.scss */
+.header-menu .container .span12 .row-shadow-header-top .span5-logo-header img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+/* line 82, ../sass/bonj.scss */
+.header-menu .container .span12 .row-shadow-header-top .span6-page-menu {
+  width: 350px;
+  float: left;
+  min-height: 1px;
+  margin-left: 30px;
+}
+/* line 88, ../sass/bonj.scss */
+.header-menu .container .span12 .row-shadow-header-top .span6-page-menu .element {
+  padding: 10px 20px 10px 20px;
+  color: black;
+  text-transform: uppercase;
+  background-color: white;
+  margin-right: -3px;
+  margin-left: -50px;
+  border-radius: 10px 0px 0px 10px;
+  text-decoration: none;
+}
+
+/* line 105, ../sass/bonj.scss */
+.home-header-block {
+  width: 100%;
+  background-color: white;
+  border-top: 1px solid #CCC;
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 20px;
+}
+/* line 112, ../sass/bonj.scss */
+.home-header-block .container {
+  width: 1070px;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* line 117, ../sass/bonj.scss */
+.home-header-block .container .span9 {
+  margin-left: 0;
+  width: 74.35897435897436%;
+}
+/* line 121, ../sass/bonj.scss */
+.home-header-block .container .span9 .accueil-header-h1 {
+  font-style: italic;
+  font-weight: normal !important;
+  color: #2A377F;
+  margin-left: 15px;
+  padding-top: 10px;
+  font-size: 36px;
+  line-height: 40px;
+}
+/* line 131, ../sass/bonj.scss */
+.home-header-block .container .span9 .hidden-phone {
+  width: auto;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  margin: 10px 20px 10px 0;
+  float: left;
+}
+/* line 141, ../sass/bonj.scss */
+.home-header-block .container .span9 p {
+  padding: 10px;
+  line-height: 18px;
+  text-align: justify;
+  margin: 0 0 10px;
+}
+/* line 147, ../sass/bonj.scss */
+.home-header-block .container .span9 p strong {
+  font-weight: bold;
+  line-height: 18px;
+  text-align: justify;
+}
+/* line 152, ../sass/bonj.scss */
+.home-header-block .container .span9 p strong .colorRed {
+  color: #D80000;
+}
