@@ -155,6 +155,28 @@ body{
 					}
 				}
 			}
+			.hidden-phone.row-fluid{
+				text-align: center;
+				content: "";
+			    display: table;
+			    line-height: 0;
+			    clear: both;
+
+				.adsbygoogle{
+				display: inline-block;
+			    height: 90px;
+			    width: 728px;
+
+				}
+			}
+
+			.accueil-header-h2{
+			color: #da2e1f;
+		    font-size: 26px;
+		    font-weight: bold;
+		    margin-top: 0;
+		    text-shadow: 1px 1px 1px #ccc;
+			}
 		}
 	}
 }

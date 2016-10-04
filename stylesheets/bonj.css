@@ -157,3 +157,25 @@ body {
 .home-header-block .container .span9 p strong .colorRed {
   color: #D80000;
 }
+/* line 158, ../sass/bonj.scss */
+.home-header-block .container .span9 .hidden-phone.row-fluid {
+  text-align: center;
+  content: "";
+  display: table;
+  line-height: 0;
+  clear: both;
+}
+/* line 165, ../sass/bonj.scss */
+.home-header-block .container .span9 .hidden-phone.row-fluid .adsbygoogle {
+  display: inline-block;
+  height: 90px;
+  width: 728px;
+}
+/* line 173, ../sass/bonj.scss */
+.home-header-block .container .span9 .accueil-header-h2 {
+  color: #da2e1f;
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 0;
+  text-shadow: 1px 1px 1px #ccc;
+}
